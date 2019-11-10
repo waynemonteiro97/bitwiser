@@ -26,12 +26,12 @@ keywords: some, relevant, keywords, for, usage, in metatags
 
 ##Some commonly used links
 links:
-  facebook: 
-  twitter: 
+  #facebook: 
+  #twitter: 
   email: wmontei1@jhu.edu, pluthra2@jhu.edu, spasupu1@jhu.edu
   github: waynemonteiro97, pluthra2, spasupu1
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: placeholder.jpg
+about_image: lazor-web.png
 ##comment this if you want full width posts with no sidebar
 sidebar: on
