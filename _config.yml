@@ -1,13 +1,13 @@
-name: Bitwiser Jekyll theme
+name: Lazor_Project_Group10 -- Welcome to the CPW Lazor App Solver
 markdown: redcarpet
 pygments: true
-gituser: brijeshb42/bitwiser
+gituser: waynemonteiro97
 paginate: 5
 paginate_path: "page:num"
-email: brijeshb42@gmail.com
+email: wmontei1@jhu.edu
 #disqus: bitwiser
 ga_id: UA-47902363-1
 ga_domain: bitwiser.in
-desc: Demo website for Bitwiser Jekyll theme.
+desc: Lazor project.
 keywords: bitwiser, jekyll, theme, templates
-twitter: brijeshb42
+#twitter: brijeshb42
