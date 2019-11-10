@@ -3,7 +3,7 @@ name: Lazor_Project_Group10 -- Welcome to the CPW Lazor App Solver
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
-highlighter: pygments
+highlighter: rogue
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url:
