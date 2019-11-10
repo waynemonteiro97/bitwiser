@@ -11,3 +11,5 @@ ga_domain: bitwiser.in
 desc: Lazor project.
 keywords: bitwiser, jekyll, theme, templates
 #twitter: brijeshb42
+
+theme: jekyll-theme-modernist
